@@ -2,8 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overscroll-y: none;
-  overscroll-x: none;
+overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 body {
